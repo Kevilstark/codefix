@@ -42,3 +42,4 @@ echo 'Employee name: '.$employee->getName().
     ', Age: '.$employee->getAge();
 
 // EOF
+?>
